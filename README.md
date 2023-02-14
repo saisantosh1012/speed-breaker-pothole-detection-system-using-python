@@ -1,6 +1,15 @@
 # speed-breaker-pothole-detection-system-using-python
 A speed breaker and pothole detection system using Python typically involves capturing video footage of a road using a camera or a smartphone. Then, using computer vision techniques and machine learning algorithms, the system detects the presence of speed breakers and potholes in the video frames.
 
+The system may use techniques such as edge detection, contour detection, and object detection to identify the speed breakers and potholes in the video frames. The detected speed breakers and potholes may be highlighted on the video frames or marked on a map of the road.
+
+The system may also use additional sensors such as GPS and accelerometers to improve the accuracy of the detection and determine the severity of the detected speed breakers and potholes. The system may provide alerts or notifications to drivers, authorities, or road maintenance crews regarding the detected road hazards.
+
+
+
+
+
+
 
 ![WhatsApp Image 2020-03-01 at 4 17 58 AM(3)](https://user-images.githubusercontent.com/103347778/218694467-9bbc54e2-adf2-421e-a9ec-b558fbb14fc3.jpeg)
 ![WhatsApp Image 2020-03-01 at 4 17 58 AM(2)](https://user-images.githubusercontent.com/103347778/218694478-f48e4619-e8a4-4d83-b8e1-a86a3e3d7812.jpeg)
